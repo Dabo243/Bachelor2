@@ -1,2 +1,7 @@
 hate_speech_env/
 Notebooks/fine_tuned_hate_speech_model
+Notebooks/enhanced_hate_speech_model_v2
+Notebooks/extended_enhanced_model
+Notebooks/improved_hate_speech_model
+Notebooks/quick_enhanced_model
+Notebooks/best_model.pt
