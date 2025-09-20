@@ -5,3 +5,13 @@ Notebooks/extended_enhanced_model
 Notebooks/improved_hate_speech_model
 Notebooks/quick_enhanced_model
 Notebooks/best_model.pt
+Datasets/test.csv
+Notebooks/CommenterName.csv
+Notebooks/advanced_hate_speech_model_80
+Notebooks/analysis_summary_robust.json
+Notebooks/cross_validation_check.py
+Notebooks/enhanced_hate_speech_model_v3
+Notebooks/enhanced_hate_speech_model_v4
+Notebooks/enhanced_multilingual_model
+Notebooks/fixed_enhanced_model
+Notebooks/fixed_hate_speech_model_v5
